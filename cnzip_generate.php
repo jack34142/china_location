@@ -1,5 +1,6 @@
 <?php
 $json = json_decode(file_get_contents("list.json"), true);
+$provinces = json_decode(file_get_contents("cnprovince.json"), true);
 
 $ary = [];
 foreach ($json as $key => $value) {
@@ -37,6 +38,13 @@ foreach ($ary as $provId => $prov) {
     $provName = $prov["name"];
     if($provName == "台湾省"){
         continue;
+    }
+    foreach( $provinces as $province ) {
+        $chinese = $province['chinese'];
+        if ( mb_substr($provName, 0, 2) == mb_substr($chinese, 0, 2) ) {
+            $provName = $chinese;
+            break;
+        }
     }
     foreach ($prov['county'] as $countyId => $county){
         $countyName = $county["name"] ?? $provName;

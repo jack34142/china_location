@@ -1,0 +1,172 @@
+[
+    {
+        "english": "Anhui",
+        "chinese": "安徽省",
+        "code": "AH"
+    },
+    {
+        "english": "Beijing",
+        "chinese": "北京市",
+        "code": "BJ"
+    },
+    {
+        "english": "Chongqing",
+        "chinese": "重庆市",
+        "code": "CQ"
+    },
+    {
+        "english": "Fujian",
+        "chinese": "福建省",
+        "code": "FJ"
+    },
+    {
+        "english": "Guangdong",
+        "chinese": "广东省",
+        "code": "GD"
+    },
+    {
+        "english": "Gansu",
+        "chinese": "甘肃省",
+        "code": "GS"
+    },
+    {
+        "english": "Guangxi",
+        "chinese": "广西省",
+        "code": "GX"
+    },
+    {
+        "english": "Guizhou",
+        "chinese": "贵州省",
+        "code": "GZ"
+    },
+    {
+        "english": "Henan",
+        "chinese": "河南省",
+        "code": "HA"
+    },
+    {
+        "english": "Hubei",
+        "chinese": "湖北省",
+        "code": "HB"
+    },
+    {
+        "english": "Hebei",
+        "chinese": "河北省",
+        "code": "HE"
+    },
+    {
+        "english": "Hainan",
+        "chinese": "海南省",
+        "code": "HI"
+    },
+    {
+        "english": "Hong Kong",
+        "chinese": "香港",
+        "code": "HK"
+    },
+    {
+        "english": "Heilongjiang",
+        "chinese": "黑龙江",
+        "code": "HL"
+    },
+    {
+        "english": "Hunan",
+        "chinese": "湖南省",
+        "code": "HN"
+    },
+    {
+        "english": "Jilin",
+        "chinese": "吉林省",
+        "code": "JL"
+    },
+    {
+        "english": "Jiangsu",
+        "chinese": "江苏省",
+        "code": "JS"
+    },
+    {
+        "english": "Jiangxi",
+        "chinese": "江西省",
+        "code": "JX"
+    },
+    {
+        "english": "Liaoning",
+        "chinese": "辽宁省",
+        "code": "LN"
+    },
+    {
+        "english": "Macau",
+        "chinese": "澳门",
+        "code": "MO"
+    },
+    {
+        "english": "Neimenggu",
+        "chinese": "内蒙古",
+        "code": "NM"
+    },
+    {
+        "english": "Ningxia",
+        "chinese": "宁夏",
+        "code": "NX"
+    },
+    {
+        "english": "Qinghai",
+        "chinese": "青海省",
+        "code": "QH"
+    },
+    {
+        "english": "Sichuan",
+        "chinese": "四川省",
+        "code": "SC"
+    },
+    {
+        "english": "Shandong",
+        "chinese": "山东省",
+        "code": "SD"
+    },
+    {
+        "english": "Shanghai",
+        "chinese": "上海市",
+        "code": "SH"
+    },
+    {
+        "english": "Shaanxi",
+        "chinese": "陕西省",
+        "code": "SN"
+    },
+    {
+        "english": "Shanxi",
+        "chinese": "山西省",
+        "code": "SX"
+    },
+    {
+        "english": "Tianjin",
+        "chinese": "天津市",
+        "code": "TJ"
+    },
+    {
+        "english": "Taiwan",
+        "chinese": "台湾省",
+        "code": "TW"
+    },
+    {
+        "english": "Xinjiang",
+        "chinese": "新疆",
+        "code": "XJ"
+    },
+    {
+        "english": "Xizang",
+        "chinese": "西藏",
+        "code": "XZ"
+    },
+    {
+        "english": "Yunnan",
+        "chinese": "云南省",
+        "code": "YN"
+    },
+    {
+        "english": "Zhejiang",
+        "chinese": "浙江省",
+        "code": "ZJ"
+    }
+]
